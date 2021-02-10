@@ -80,7 +80,6 @@ main {
     font-weight: bold;
     text-decoration: none;
 }
-}
 
 #contact {
     text-align: center;
@@ -89,6 +88,10 @@ main {
 #contact a {
     color: #666600;
     text-decoration: none;
+}
+
+.map{
+    border: 8px solid #000;
 }
 
 footer p {
