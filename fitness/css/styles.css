@@ -42,4 +42,19 @@ nav li a {
 
 main {
     clear: left;
+    background-color: #fff;
+    padding: 2%;
+    font-size: 1.25em;
+}
+
+footer p {
+    font-size: 0.75em;
+    text-aligh: center;
+    color: #fff;
+    padding: 0 1em;
+}
+
+footer p a {
+    color: #fff;
+    text-decoration: none;
 }
