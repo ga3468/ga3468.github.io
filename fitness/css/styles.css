@@ -47,6 +47,12 @@ main {
     font-size: 1.25em;
 }
 
+#weights, #cardio, #training {
+   width: 29%;
+    float: left;
+    margin: 0 2%;
+}
+
 footer p {
     font-size: 0.75em;
     text-aligh: center;
