@@ -19,7 +19,7 @@ body {
 }
 
 img {
-    max-weidht: 100%;
+    max-width: 100%;
     display: block;
 }
 
@@ -115,7 +115,7 @@ main {
 /*Style rule for footer content */
 footer p {
     font-size: 0.75em;
-    text-aligh: center;
+    text-align: center;
     color: #fff;
     padding: 0 1em;
 }
