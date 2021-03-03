@@ -172,13 +172,13 @@ footer p a {
     }
     
     /* Tablet Viewport: Style rules for nav area */
-    navi li {
+    nav li {
         border-top: none;
         display: inline-block;
         border-right: 1px solid #fff;
     }
     
-    nav li: last-child {
+    nav li:last-child {
         border-right: none;
     }
     
@@ -266,7 +266,7 @@ footer p a {
 }
 
 /* Media Query for Large Desktop Viewports */
-@media screen and (min-width: 1921 px) {
+@media screen and (min-width: 1921px) {
     
     #container {
         width: 1920px;
@@ -280,5 +280,5 @@ footer p a {
     
     body{
         background-color: #fff;
-        color: #ooo;
+        color: #000;
     }
