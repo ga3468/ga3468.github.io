@@ -443,6 +443,12 @@ form {
         grid-template-columns: auto auto auto;
         grid-gap: 20px;
     }
+    
+    .btn{
+        grid-column 1 / span 3;
+    }
+    
+    
 }
     
     
