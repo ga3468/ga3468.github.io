@@ -26,6 +26,7 @@ img {
 /*Style rule for box sizing applies to all elements */
 {
     box-sizing: border-box;
+*
 }
 
 
@@ -385,3 +386,4 @@ footer p a {
         background-color: #fff;
         color: #000;
     }
+}
