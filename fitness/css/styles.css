@@ -194,13 +194,13 @@ article:nth-of-type(2){
 }
 
 
-#form h2{
-    margin-top: %;
-    background-color:    ;
-    padding:  ;
+#form {
+    margin-top: 2%;
+    background-color: #f2f2f2;
+    padding: 2%;
 }
 
-#form {
+#form h2 {
     text-align: center;
 }
 
@@ -211,7 +211,7 @@ fieldset, input, select, textarea {
 
 fieldset legend {
     font-weight: bold;
-    font-szie: 1.25em;
+    font-size: 1.25em;
 }
 
 label {
@@ -438,7 +438,7 @@ form {
         width: auto;
 }
     
-    .form grid {
+    .form-grid {
         display: grid;
         grid-template-columns: auto auto auto;
         grid-gap: 20px;
